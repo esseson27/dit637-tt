@@ -1,2 +1,3 @@
 # DIT637-TT01
 Follow the instructions inside "(Start Here) TT01A Experiencing Cloud Computing – Full-Stack Web Application.pdf"
+This React component implements real-time movie search by capturing user input, filtering the movie dataset, and updating the interface dynamically through React state management. Using React Hooks and Material-UI creates a responsive, modular, and maintainable frontend architecture that improves the overall user experience. This approach contributes to a Smart and Secure System by providing efficient client-side processing, reducing unnecessary operations, and supporting a scalable application design that follows modern web development practices.
